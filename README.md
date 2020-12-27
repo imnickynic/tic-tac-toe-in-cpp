@@ -1,4 +1,4 @@
 ___
-# Tic Toc Toe Game In  C++ 
+# Tic Tac Toe Game In  C++ 
 ___
 ### --> Computer Vs You
